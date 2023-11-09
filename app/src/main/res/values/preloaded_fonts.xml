@@ -3,7 +3,9 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/akaya_telivigala</item>
         <item>@font/almendra</item>
+        <item>@font/arizonia</item>
         <item>@font/astloch_bold</item>
         <item>@font/bahiana</item>
+        <item>@font/butcherman</item>
     </array>
 </resources>
